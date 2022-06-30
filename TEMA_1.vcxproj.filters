@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilizator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CAdministrator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CClientList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ICazare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CazareAbs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CHotel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPensiune.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CazariFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CazareList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Calendar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IExceptie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExceptieAbs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Alerta.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rezervare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Eroare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CAdministrator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CClientList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CazareAbs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CHotel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPensiune.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CazariFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CazareList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Calendar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Alerta.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Rezervare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Eroare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="admin.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="clienti.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Rezervari.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Bucuresti.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Orase.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Hotel Brasov Frumos_rez.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Domeniul Dambul Morii_rez.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="nume_1_rez.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="nume_2_rez.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Hotel Rubin_rez.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="nume_3_rez.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Pensiunea Loco_Bucuresti_rez.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Recenzii.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Brasov.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Registru.log">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Alex_rez.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Utilizator_Experimentat_rez.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Mihai_rez.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="La Nicu_rez.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TheBest_rez.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Craiova.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Grand Hotel_rez.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

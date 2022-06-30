@@ -1,0 +1,27 @@
+Pensiune
+Pensiunea Loco_Bucuresti
+2
+10
+1
+10 - 2
+2 - 90
+MicDejun
+30
+
+Hotel
+Hotel Rubin
+5
+10
+1
+10 - 2
+2 - 400
+
+Pensiune
+La Nicu
+3
+5
+1
+5 - 2
+2 - 200
+MicDejun
+20

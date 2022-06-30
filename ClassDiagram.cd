@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Alerta" Collapsed="true">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAM=</HashCode>
+      <FileName>Alerta.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAdministrator" Collapsed="true">
+    <Position X="6.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAAAAAAAIAAAAAAAgAAAABAAAQgAAAAAAEAAAA=</HashCode>
+      <FileName>CAdministrator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calendar" Collapsed="true">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAkAAAAAAgAAAgAAAAAEAAAAAQAACEAABEAAAgAAA=</HashCode>
+      <FileName>Calendar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CazareAbs" Collapsed="true">
+    <Position X="1.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAABAAgggIEAAAAAAAAIAAAAOAGAABCAIEAAAACA=</HashCode>
+      <FileName>CazareAbs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CazareList" Collapsed="true">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAAAgAAAgCgAIAEAAAAFAAAQAAAAAAAAAAAY=</HashCode>
+      <FileName>CazareList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CazariFactory" Collapsed="true">
+    <Position X="11.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CazariFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClient" Collapsed="true">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAASAAAAAAAAAAAAAAAQEAAAAIAAAEQQAAAACCAE=</HashCode>
+      <FileName>CClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClientList" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAIACAAACAAAAAAFAAAQAAAAAgAACAAI=</HashCode>
+      <FileName>CClientList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHotel" Collapsed="true">
+    <Position X="2.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAABAAIAAABAABAAAAAA=</HashCode>
+      <FileName>CHotel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPensiune" Collapsed="true">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAIAACAAABgAAAAA=</HashCode>
+      <FileName>CPensiune.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Eroare" Collapsed="true">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Eroare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExceptieAbs" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAIAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>ExceptieAbs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICazare" Collapsed="true">
+    <Position X="1.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAAAAAggAEAAAAAAAAIAAAAKAIAAACAAFAAAACA=</HashCode>
+      <FileName>ICazare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IExceptie" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>IExceptie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Log" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAhAAIQAAQAAAAAAAAA=</HashCode>
+      <FileName>Log.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rezervare" Collapsed="true">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAE=</HashCode>
+      <FileName>Rezervare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utilizator" Collapsed="true">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAQEAAAAAAEIAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilizator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="camera" Collapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICazare.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="optiunui" Collapsed="true">
+    <Position X="5.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAQEAAAAAA=</HashCode>
+      <FileName>ICazare.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="Camera" Collapsed="true">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICazare.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Optiuni" Collapsed="true">
+    <Position X="5.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICazare.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="Months" Collapsed="true">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAQAAAAAABQAoAAABBIQAAAAAAIA=</HashCode>
+      <FileName>Calendar.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
