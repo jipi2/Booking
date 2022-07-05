@@ -18,3 +18,10 @@ It is a console application that provides some facilities that are very similar 
 * the user can write reviews if he had a booking at that hotel or guest house
 * the administrator needs to validate or deny bookings
 * the administrator can add or delete a hotel or a guest house
+
+## Additional information
+
+* the app is based on files
+    - the usernames and passwords are stored in files the same as all informations about hotels and bookings
+* the application was made using __OOP__ concepts
+* language used for prompt is romanian
